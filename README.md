@@ -50,6 +50,13 @@ To build the Power BI dashboard, you will need:
 - A fully interactive dashboard for order-level insights.
 - Geographical heatmaps showing sales distribution across cities.
 
+## Dashboard Preview
+
+![UPI Transaction Dashboard](1.png)
+![UPI Transaction Dashboard](2.png)
+![UPI Transaction Dashboard](3.png)
+
+
 ## Conclusion
 This Power BI analysis will help **ElectroHub** make data-driven business decisions by understanding product performance, optimizing discount strategies, and identifying sales trends.
 
